@@ -1,0 +1,62 @@
+﻿  game.cpp
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(54,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(125,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(329,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(354,52): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(358,38): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(363,34): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(396,77): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(401,77): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(406,77): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\game.cpp(411,77): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  game_object.cpp
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  model.cpp
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  program.cpp
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(96,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(140,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(141,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(145,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(146,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(148,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(149,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\program.cpp(158,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  resource_manager.cpp
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  shader.cpp
+  text_renderer.cpp
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Aaron\source\repos\Mapfall\Mapfall\text_renderer.cpp(80,33): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+  Generating Code...
+  Mapfall.vcxproj -> C:\Users\Aaron\source\repos\Mapfall\x64\Debug\Mapfall.exe
